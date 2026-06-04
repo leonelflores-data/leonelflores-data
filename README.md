@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Leonel Flores! 👋
 
-<!--
-**leonelflores-data/leonelflores-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+- 🎓 I'm currently an 8th-cycle Systems Engineering and Informatics student based in Lima, Peru.
+- 📊 I am focusing my career on **Data Engineering**, passionate about building efficient data pipelines, architecture, and database management.
+🚀 Always learning and practicing data modeling and query optimization.
+🗣️ Languages: Spanish (Native) | English (In progress)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools
+**Languages:** Python, SQL
+**Databases:** PostgreSQL, SQL Server
+**Tools:** DBeaver, Git, GitHub
